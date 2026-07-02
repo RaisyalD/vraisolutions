@@ -38,11 +38,13 @@ export default function WhyUs() {
         <div className="relative">
           <div className="aspect-square rounded-full bg-primary/20 blur-[120px] absolute inset-0 -z-10" />
           <div className="glass-card p-12 rounded-[48px] premium-border relative">
-            <img
-              src={logoImage}
-              alt="Vrai Solutions Logo"
-              className="w-full h-auto rounded-3xl mb-8"
-            />
+            <div className="flex items-center justify-center py-8">
+              <img
+                src={logoImage}
+                alt="Vrai Solutions Logo"
+                className="w-48 h-auto object-contain"
+              />
+            </div>
             <div className="border-t border-white/10 pt-8 mt-8">
               <p className="text-on-secondary-container text-body-md italic leading-relaxed text-center">
                 "Trusted by students, organizations, and businesses for delivering reliable digital

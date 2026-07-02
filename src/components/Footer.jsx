@@ -33,7 +33,7 @@ export default function Footer() {
             ))}
           </div>
           <p className="font-label-sm text-label-sm text-on-surface-variant">
-            © 2024 Vrai Solutions. All Rights Reserved.
+            © 2026 Vrai Solutions. All Rights Reserved.
           </p>
         </div>
       </div>

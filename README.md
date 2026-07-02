@@ -1,6 +1,6 @@
-# VRAI Solutions — Company Profile Website
+# VRAI Solutions — Software House Profile Website
 
-A modern, high-performance company profile website for **VRAI Solutions**, a digital services agency specializing in web development, MATLAB processing, academic assistance, research analytics, UI/UX design, and more.
+A modern, high-performance Software House profile website for **VRAI Solutions**, a digital services agency specializing in web development, MATLAB processing, academic assistance, research analytics, UI/UX design, and more.
 
 Live site: [vraisolutions.vercel.app](https://vraisolutions.vercel.app) *(update with actual URL)*
 
@@ -134,4 +134,4 @@ Edit that file to update any text, numbers, or portfolio entries without touchin
 
 ## License
 
-© 2025 VRAI Solutions. All rights reserved.
+© 2026 VRAI Solutions. All rights reserved.

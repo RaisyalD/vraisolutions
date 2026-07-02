@@ -157,5 +157,4 @@ export const features = [
   },
 ]
 
-export const logoImage =
-  'https://lh3.googleusercontent.com/aida-public/AB6AXuBzG0E9dJYawQT0HvF9mYCfowZfK92BxdDrI0rH8U_ChKVYRFDdtN0BzrdfIHGlK1SvkJXQR48-HuA2uTcqKPr5H7uTkw8URo3_nrurVbHmlg6EZM1n0566NsT9BwD_mN6kVqVE_ciG7SUtdq3z_wbpl6K_7jkFaMts7nJH91u_Nk65OH7L1JeVb6d2_MNA0uP0WmIDOPyMl9oauzGkvXxC6GlyT5L9DY2absPGRmhWYorfxWdfZq4qNCSZ3wCgEsXR8g'
+export const logoImage = '/vrai logo.png'
