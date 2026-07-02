@@ -2,7 +2,7 @@
 
 A modern, high-performance Software House profile website for **VRAI Solutions**, a digital services agency specializing in web development, MATLAB processing, academic assistance, research analytics, UI/UX design, and more.
 
-Live site: [vraisolutions.vercel.app](https://vraisolutions.vercel.app) *(update with actual URL)*
+Live site: [vraisolutions.vercel.app](https://vrai-solutions.vercel.app) *(update with actual URL)*
 
 ---
 
