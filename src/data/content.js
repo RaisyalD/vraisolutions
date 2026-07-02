@@ -131,25 +131,29 @@ export const features = [
     icon: 'schedule',
     tag: 'Reliability',
     title: 'On-Time Delivery',
-    description: 'We respect deadlines as much as quality. Every milestone is hit on schedule.',
+    description:
+      'Every project is managed with clear timelines and delivered according to the agreed schedule without compromising quality.',
   },
   {
-    icon: 'high_quality',
-    tag: 'Excellence',
+    icon: 'verified',
+    tag: 'Quality',
     title: 'Quality Assured',
-    description: 'Rigorous testing and peer reviews ensure zero-compromise output.',
+    description:
+      'Each deliverable goes through careful review and quality checks to ensure professional, accurate, and reliable results.',
   },
   {
-    icon: 'psychology',
-    tag: 'Intelligence',
-    title: 'Expert Insights',
-    description: 'Consultants with high-level academic and professional backgrounds.',
+    icon: 'chat_bubble',
+    tag: 'Communication',
+    title: 'Easy Communication',
+    description:
+      'Transparent communication throughout every stage of the project with quick responses and collaborative discussions.',
   },
   {
-    icon: 'support_agent',
-    tag: 'Service',
-    title: 'Life-cycle Support',
-    description: 'Ongoing maintenance and updates long after the project concludes.',
+    icon: 'track_changes',
+    tag: 'Commitment',
+    title: 'Result Driven',
+    description:
+      'We focus on delivering practical, high-quality solutions that help clients achieve their goals efficiently.',
   },
 ]
 
